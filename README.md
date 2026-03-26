@@ -204,4 +204,6 @@ As queries utilizam as seguintes tabelas do schema `sales`:
 
 **João Pedro Martins**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jotap53)
+<a href="https://github.com/jotap53/seu-repositorio/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jotap53/projeto_sql_dashboard_de_acompanhamento" />
+</a>
