@@ -200,10 +200,7 @@ As queries utilizam as seguintes tabelas do schema `sales`:
 
 ---
 
-## 👤 Autor
+## Desenvolvedor
 
-**João Pedro Martins**
-
-<a href="https://github.com/jotap53/seu-repositorio/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=jotap53/projeto_sql_dashboard_de_acompanhamento" />
-</a>
+| [<img src="https://avatars.githubusercontent.com/jotap53" width=115><br><sub>João Pedro Martins</sub>](https://github.com/jotap53) |
+| :---: |
